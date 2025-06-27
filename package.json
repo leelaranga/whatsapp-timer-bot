@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-scheduler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "node-schedule": "^2.1.1",
+    "qrcode": "^1.5.4"
+  }
+}
